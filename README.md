@@ -1,3 +1,3 @@
 # Proyecto-phycom
-Proyecto de carros
-Este es el repositorio principal del proyecto
+Este es el repositorio principal del proyecto de:
+![](Images/3ghsL+YAAAAASUVORK5CYII= (1).jpg)
