@@ -350,5 +350,6 @@ while carryOn:
     screen.blit(Player1_score, (10, 10))
     screen.blit(Player2_score, (Sc_Width - 180, 10))
 
+
 pygame.quit()
 
